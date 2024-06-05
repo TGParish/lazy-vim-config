@@ -5,6 +5,7 @@ return {
   opts = {
     ensure_installed = {
       "stylua",
+      "html",
       "javascript",
       "intelephense",
       "css",
